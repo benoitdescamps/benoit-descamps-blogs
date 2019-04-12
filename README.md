@@ -10,4 +10,4 @@
 * [Regression prediction intervals with XGBOOST)(https://towardsdatascience.com/regression-prediction-intervals-with-xgboost-428e0a018b)
 
 # Collaboratory Notebooks
-* [Regression prediction intervals with XGBOOST](https://github.com/benoitdescamps/benoit-descamps-blogs/tree/master/notebooks/quantile_xgb)
+* [Regression prediction intervals with XGBOOST](https://colab.research.google.com/github/benoitdescamps/benoit-descamps-blogs/blob/master/notebooks/quantile_xgb/xgboost_quantile_regression.ipynb)
